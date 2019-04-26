@@ -2,7 +2,7 @@
 
 兄弟之间通信,运用bus  实现发布订阅
 
-<!-- bus.$emit()   bus.$on() -->
+bus.$emit()   bus.$on()
 ## Build Setup
 
 ``` bash
