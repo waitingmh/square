@@ -86,6 +86,7 @@ export default {
     height: 30px;
     background: orange;
     margin-top: 20px;
+    margin-left: 50px;
     outline: 0;
     border-radius: 5px;
     border: 1px solid orangered;
